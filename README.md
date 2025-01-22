@@ -17,3 +17,6 @@ Project ini adalah bagian dari proses perekrutan dari Lenna.ai
     - Penyakit
 - Bertanya tentang tips kesehatan (RAG)
 - Bertanya tentang penyakit umum (RAG)
+
+## Demo
+![output3](https://github.com/user-attachments/assets/2957cfb1-13ac-45b5-a382-a0cce222e8f5)
