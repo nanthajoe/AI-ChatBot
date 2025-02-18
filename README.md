@@ -1,6 +1,5 @@
 # AI-ChatBot
 ## Project pengembangan AI ChatBot Rumah Sakit
-Project ini adalah bagian dari proses perekrutan dari Lenna.ai
 
 ## Proses Setup
 - Menyiapkan environtment Python versi 3.10
