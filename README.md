@@ -2,7 +2,8 @@
 ## Project pengembangan AI ChatBot Rumah Sakit
 
 ## Proses Setup
-- Menyiapkan environtment Python versi 3.10
+- Download Ollama dan pull model llama3
+- Menyiapkan environment Python versi 3.10
 - Melakukan pip install pada file *requirements.txt*
 
 ## Proses Run Aplikasi
